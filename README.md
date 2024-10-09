@@ -17,13 +17,19 @@ Welcome to the **Stokes & Journaling App**, a productivity tool designed to help
 - **Aesthetic UI/UX Design**: A beautifully designed interface that makes your experience smooth and engaging.
 
 ## 📱 Screenshots
-![Simulator Screenshot - iPhone 15 Pro - 2024-10-08 at 21 22 21](https://github.com/user-attachments/assets/f0427bca-07d2-4e6f-a39a-72fd3f14c17a)
-![Simulator Screenshot - iPhone 15 Pro - 2024-10-08 at 21 22 17](https://github.com/user-attachments/assets/9f92e035-32c1-4968-893e-4e9c55910fb9)
-![Simulator Screenshot - iPhone 15 Pro - 2024-10-08 at 21 21 58](https://github.com/user-attachments/assets/16d225a0-bd9e-4cf3-b21f-ff282b086077)
-![Simulator Screenshot - iPhone 15 Pro - 2024-10-08 at 21 22 12](https://github.com/user-attachments/assets/2737c3f8-d220-43b3-bd36-9d84c2a868c4)
-![Simulator Screenshot - iPhone 15 Pro - 2024-10-08 at 21 22 06](https://github.com/user-attachments/assets/f91b7d34-7461-42c8-b420-76840f902ae4)
-![Simulator Screenshot - iPhone 15 Pro - 2024-10-07 at 21 38 03](https://github.com/user-attachments/assets/527e18c8-f6a7-42b7-b48d-5127457e67b1)
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f0427bca-07d2-4e6f-a39a-72fd3f14c17a" alt="Screenshot 1" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/9f92e035-32c1-4968-893e-4e9c55910fb9" alt="Screenshot 2" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/16d225a0-bd9e-4cf3-b21f-ff282b086077" alt="Screenshot 3" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2737c3f8-d220-43b3-bd36-9d84c2a868c4" alt="Screenshot 4" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/f91b7d34-7461-42c8-b420-76840f902ae4" alt="Screenshot 5" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/527e18c8-f6a7-42b7-b48d-5127457e67b1" alt="Screenshot 6" width="200"></td>
+  </tr>
+</table>
 
 
 ## 🚀 Getting Started
